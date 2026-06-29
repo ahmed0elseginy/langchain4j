@@ -31,13 +31,11 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
 
 ### Mac OS ###
 .DS_Store
 
 ### .env files contain local environment variables ###
-.env
 langchain4j-core/target_test-classes/
 
 ## AI Coding Assistants ###
@@ -48,3 +46,5 @@ CLAUDE.md
 .quarkus
 
 jdk/
+config.bat
+node_modules
